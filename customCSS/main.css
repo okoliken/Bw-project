@@ -77,3 +77,8 @@
 .owl-next{
     right: 1%;
 }
+@media screen and (max-width:600px){
+    .slide-content h1{
+        font-size:25px;
+    }
+}
